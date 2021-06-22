@@ -1,2 +1,2 @@
 # popcat-bot
-pocat.click autoclicker
+Autoclicker for [popcat.click](popcat.click)
