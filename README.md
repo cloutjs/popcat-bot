@@ -1,2 +1,3 @@
 # popcat-bot
-Autoclicker for [popcat.click](popcat.click)
+<a href="https://www.google.com/" target="_blank">Autoclicker for popcat</a>
+
