@@ -13,9 +13,8 @@ browser.get("https://popcat.click/")
 time.sleep(2)
 
 clicks = 0
-ee = 0
 print("clicking...")
-while (ee < 3):
+while True:
     e = browser.find_element_by_xpath("/html")
     e.send_keys(Keys.RETURN)
     clicks = clicks + 1
